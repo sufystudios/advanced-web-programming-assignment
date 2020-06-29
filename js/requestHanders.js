@@ -4,8 +4,8 @@ var weather = require('./weather.js');
 var fs = require('fs');
 var url = require('url');
 var req = require('request');
-var username = "31550821";
-var password = "Pyknotic7!";
+var username = "*";
+var password = "*";
 var weatherobj = weather.weather;
 //weatherobj.initialize();
 
