@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "request": "^2.85.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {},
   "scripts": {
